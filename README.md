@@ -8,7 +8,8 @@ below is required for all team members
  please go to github website [github][github] and create an account.
 - download and install git client software in PC  
 for Windows, please download and install the git client via the link: [git for windows][git-for-windows].
-git client  is comprised of three types of client softwares: Git Bash, Git Gui and Git CMD, Git Bash is recommended to use, below is how a Git Bash looks like on windows: ![git-client][git-client]
+git client  is comprised of three types of client softwares: Git Bash, Git Gui and Git CMD, Git Bash is recommended to use, below is how a Git Bash looks like on windows    
+![git-client][git-client]
 
 for Linux, please refer to the related Linux OS installation instruction, below is an example to install git in Linux Centos 7
 ```centos7
