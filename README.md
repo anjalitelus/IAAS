@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+# IAAS
+IAAS
+victor  
+angie 
+test comments
+
+=======
 # ISSA development
 the project is aiming to develop an ISSA cloud platform  to manage and monitor Telus SD-WAN services
 
@@ -98,3 +106,4 @@ the owner of repo will merge the updated docs into the main repo if all collabor
 [ssh-key-settings-1]: images/ssh_settings_1.PNG
 [ssh-key-settings-2]: images/ssh_settings_2.PNG
 [new_pull_request.PNG]: images/new_pull_request.PNG
+>>>>>>> 58bafb696eab4552ce2e968615c1dafc81efe355
