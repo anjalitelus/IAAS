@@ -1,5 +1,5 @@
-# ISSA development
-the project is aiming to develop an ISSA cloud platform  to manage and monitor Telus SD-WAN services
+# IAC development
+the project is aiming to develop an IAC cloud platform  to manage and monitor Telus SD-WAN services
 
 
 # Prerequisites
